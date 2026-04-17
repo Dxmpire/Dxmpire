@@ -1,8 +1,8 @@
 **👋 Hi, I’m Dominick**
 
-I’m an 18‑year‑old game designer with years of hands‑on experience building games from scratch, improving existing systems, and collaborating with teams. I’ve been designing games for as long as I can remember, and I’m committed to turning that passion into a full‑time career.
+I’m an 18‑year‑old game designer with years of hands‑on experience building games from scratch, improving existing systems, and collaborating with teams. I’ve been designing games for as long as I can remember, and I’m committed to turning that passion into a full-time career.
 
-I have **4+ years of experience in Roblox Studio**, and I’m well‑versed in **Lua and Java**. I’m currently expanding my skills in **Unreal Engine** to prepare for a professional game‑development environment.
+I have **4+ years of experience in Roblox Studio**, and I’m well-versed in **Lua and Java**. I’m currently expanding my skills in **Unreal Engine** to prepare for a professional game development environment.
 
 ---
 
