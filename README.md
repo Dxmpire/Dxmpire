@@ -9,11 +9,8 @@ I have **4+ years of experience in Roblox Studio**, and I’m well‑versed in *
 **🎮 What I Excel At**
 
 * Balancing & tuning gameplay systems
-
 * Designing competitive environments that feel fair and engaging
-
 * Player progression systems (reward pacing, difficulty curves, long‑term engagement)
-
 * Gameplay mechanics design (combat, abilities, systems interactions)
 
 ---
@@ -21,9 +18,6 @@ I have **4+ years of experience in Roblox Studio**, and I’m well‑versed in *
 **🧩 Experience**
 
 * Volunteer Game Designer — Awaken Studios (5 months)
-
 * Served as an assistant game designer on a 3v3 Competitive Shooter
-
 * Designed core systems, progression loops, and gameplay mechanics
-
 * Balanced & tweaked 50+ weapon parts to a usable state 
