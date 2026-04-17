@@ -4,6 +4,8 @@ I’m an 18‑year‑old game designer with years of hands‑on experience build
 
 I have 4+ years of experience in Roblox Studio, and I’m well‑versed in Lua and Java. I’m currently expanding my skills in Unreal Engine to prepare for a professional game‑development environment.
 
+---
+
 **🎮 What I Excel At**
 Balancing & tuning gameplay systems
 
@@ -12,6 +14,8 @@ Balancing & tuning gameplay systems
 * Player progression systems (reward pacing, difficulty curves, long‑term engagement)
 
 * Gameplay mechanics design (combat, abilities, systems interactions)
+
+---
 
 **🧩 Experience**
 * Volunteer Game Designer — Awaken Studios (5 months)
